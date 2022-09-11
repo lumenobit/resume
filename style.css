@@ -1,0 +1,35 @@
+body {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 42px;
+    font-weight: 400;
+    color: #1a88ff;
+}
+
+/* CLASS STYLES > TAG STYLES */
+.main-heading {
+    color: #ff3037;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 400;
+    color: #1a88ff;
+    text-transform: uppercase;
+}
+
+img {
+    width: 100px;
+}
+
+.career-detail {
+    font-style: italic;
+}
+
+th {
+    font-size: 22px;
+    font-weight: 400;
+    color: #121bff;
+}
